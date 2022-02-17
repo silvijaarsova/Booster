@@ -8,5 +8,10 @@ namespace Booster
         {
             return "Hello";
         }
+
+        public string Test2()
+        {
+            return "Hello";
+        }
     }
 }
