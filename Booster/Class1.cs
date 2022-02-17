@@ -9,6 +9,11 @@ namespace Booster
             return "Hello";
         }
 
+        public string Test2()
+        {
+            return "Hello";
+        }
+
         public string Test3()
         {
             return "Hello";
